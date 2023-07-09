@@ -1,5 +1,7 @@
 # wxauto
 
+## 项目已经本人修改，最新版本微信也能使用 （William）（无其它用途只是fork自用）
+
 Windows版本微信客户端自动化，可实现简单的发送、接收微信消息，开发中
 
 [点此获取后台调用版本](https://github.com/cluic/wxautoapi)
@@ -78,20 +80,10 @@ wx.SendScreenshot(name, classname)  # 发送微信窗口的截图给文件传输
 ## 注意事项
 目前还在开发中，测试案例较少，使用过程中可能遇到各种Bug
 
-如果遇到问题或者有新的想法，希望您可以通过以下两种方式联系我进行改进：
-- [点击前往此页面留下您的问题](https://github.com/cluic/wxauto/issues/new/choose)
-- 邮箱：tikic@qq.com
-
 
 ## 最后
 如果对您有帮助，希望可以帮忙点个Star，如果您正在使用这个项目，可以将右上角的 Unwatch 点为 Watching，以便在我更新或修复某些 Bug 后即使收到反馈，感谢您的支持，非常感谢！
 
 ## 免责声明
 代码仅供交流学习使用，请勿用于非法用途和商业用途！如因此产生任何法律纠纷，均与作者无关！
-
-## 支持
-非常感谢您对该项目的支持
-
-![支付宝](https://i.328888.xyz/2023/02/09/3QaBP.png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-![微信](https://i.328888.xyz/2023/02/09/3Q1JX.png)
 
